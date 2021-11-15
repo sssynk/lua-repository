@@ -1,9 +1,9 @@
 --[[
 
 KickService
-By: ItzHiimnew
+By: sssynk
 
-KickService by ItzHiimnew is licensed under CC BY-SA 4.0 
+KickService by sssynk is licensed under CC BY-SA 4.0 
 https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1
 
 ]]--
